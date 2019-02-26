@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TF_WebApplication.Condutor">
+    <Position X="7.75" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgAAAAAAAQFgAACAQAAAjAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Condutor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TF_WebApplication.Multa">
+    <Position X="10.25" Y="5.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAABAAAQEgAAAAAAEAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Multa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.MultaLeve">
+    <Position X="5" Y="10.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultaLeve.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.MultaGrave">
+    <Position X="9.75" Y="10.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultaGrave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.MultaGravissima">
+    <Position X="14.75" Y="10.5" Width="4.75" />
+    <InheritanceLine Type="TF_WebApplication.Multa" ManuallyRouted="true">
+      <Path>
+        <Point X="12.25" Y="8.348" />
+        <Point X="12.25" Y="10.289" />
+        <Point X="17.125" Y="10.289" />
+        <Point X="17.125" Y="10.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultaGravissima.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.DAL">
+    <Position X="0.75" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.Veiculo">
+    <Position X="4.5" Y="0.5" Width="3" />
+    <InheritanceLine Type="DataStructuresLibrary.Data" FixedToPoint="true">
+      <Path>
+        <Point X="16" Y="2.75" />
+        <Point X="16" Y="0.125" />
+        <Point X="5.938" Y="0.125" />
+        <Point X="5.938" Y="0.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAQEgAAAAAAAAFAAAABAAAAAAAAAEAA=</HashCode>
+      <FileName>Veiculo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TF_WebApplication.Imposto">
+    <Position X="5.25" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABCAAAAAAAAQEgAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Imposto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.IPVA">
+    <Position X="2.75" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPVA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.Licenciamento">
+    <Position X="5" Y="8.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Licenciamento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TF_WebApplication.Seguro">
+    <Position X="7.5" Y="8.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Seguro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataStructuresLibrary.Data" Collapsed="true">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TF_WebApplication.Gestao">
+    <Position X="1.5" Y="4.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="TF_WebApplication.IRegularizavel">
+    <Position X="1" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IRegularizavel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

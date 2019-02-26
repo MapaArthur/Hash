@@ -1,0 +1,84 @@
+﻿body {
+    
+}
+#form1{
+    margin: auto;
+    position: relative;
+    width: 550px;
+    height: 450px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+    font-style:italic;
+    line-height: 24px;
+    font-weight: bold;
+    color: #09C;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #999;
+    border: inset 1px solid #333;
+}
+
+#img_login{
+    left: 166px;
+    top: 24px;
+    position: absolute;
+    height: 213px;
+    width: 223px
+}
+
+#img_user {
+    left: 72px;
+    top: 272px;
+    position: absolute;
+    height: 29px;
+    width: 32px;
+    margin-top: 0px;
+}
+
+#img_password {
+    left: 70px;
+    top: 333px;
+    position: absolute;
+    height: 29px;
+    width: 32px
+}
+#btn_login{
+    width: 100px;
+    position: absolute;
+    right: 243px;
+    bottom: 24px;
+    background: #273b7a;
+    color: #fff;
+    font-family: Tahoma, Geneva, sans-serif;
+    height: 30px;
+    border: 1px solid #999;
+
+}
+#txt_userName, #txt_userPassword {
+    position: absolute;
+    width: 318px;
+    display: block;
+    border: 1px solid #999;
+    height: 25px;
+    -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+    top: 272px;
+    left: 130px;
+    margin-bottom: 3px;
+}
+
+#txt_userPassword{
+    z-index: 1;
+    left: 130px;
+    top: 327px;
+    position: absolute;
+    width: 317px;
+    margin-top: 4px;
+}
+#lbl_CredencialIncorreta {
+    left: 184px;
+    top: 244px;
+    position: absolute; 
+    color: red;
+}

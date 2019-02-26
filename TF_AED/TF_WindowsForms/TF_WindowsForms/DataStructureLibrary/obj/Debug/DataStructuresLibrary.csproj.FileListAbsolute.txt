@@ -1,0 +1,5 @@
+D:\Users\Arthur_M\Downloads\Projetos\TF AED\TF_AED\TF_WindowsForms\TF_WindowsForms\DataStructureLibrary\bin\Debug\DataStructuresLibrary.dll
+D:\Users\Arthur_M\Downloads\Projetos\TF AED\TF_AED\TF_WindowsForms\TF_WindowsForms\DataStructureLibrary\bin\Debug\DataStructuresLibrary.pdb
+D:\Users\Arthur_M\Downloads\Projetos\TF AED\TF_AED\TF_WindowsForms\TF_WindowsForms\DataStructureLibrary\obj\Debug\DataStructuresLibrary.csproj.CoreCompileInputs.cache
+D:\Users\Arthur_M\Downloads\Projetos\TF AED\TF_AED\TF_WindowsForms\TF_WindowsForms\DataStructureLibrary\obj\Debug\DataStructuresLibrary.dll
+D:\Users\Arthur_M\Downloads\Projetos\TF AED\TF_AED\TF_WindowsForms\TF_WindowsForms\DataStructureLibrary\obj\Debug\DataStructuresLibrary.pdb

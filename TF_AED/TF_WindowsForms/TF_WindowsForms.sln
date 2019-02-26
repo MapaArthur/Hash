@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_WindowsForms", "TF_WindowsForms\TF_WindowsForms.csproj", "{A267C323-0ED1-42D7-94E1-DF7FC9150B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresLibrary", "TF_WindowsForms\DataStructureLibrary\DataStructuresLibrary.csproj", "{1AD07E0B-3B05-46E6-9E8A-B35503B59F0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A267C323-0ED1-42D7-94E1-DF7FC9150B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A267C323-0ED1-42D7-94E1-DF7FC9150B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A267C323-0ED1-42D7-94E1-DF7FC9150B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A267C323-0ED1-42D7-94E1-DF7FC9150B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD07E0B-3B05-46E6-9E8A-B35503B59F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD07E0B-3B05-46E6-9E8A-B35503B59F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD07E0B-3B05-46E6-9E8A-B35503B59F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD07E0B-3B05-46E6-9E8A-B35503B59F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E21C1EFF-7C56-4205-A8B0-3A54A4AA994F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://consolecsharp.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TF_WindowsForms\\TF_WindowsForms.csproj
+		SccProjectName1 = TF_WindowsForms
+		SccLocalPath1 = TF_WindowsForms
+		SccProjectUniqueName2 = TF_WindowsForms\\DataStructureLibrary\\DataStructuresLibrary.csproj
+		SccProjectName2 = TF_WindowsForms/DataStructureLibrary
+		SccLocalPath2 = TF_WindowsForms\\DataStructureLibrary
+	EndGlobalSection
+EndGlobal
